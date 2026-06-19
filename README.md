@@ -5,8 +5,8 @@ Static legal pages for TikTok Developer app registration.
 ## Pages
 
 - `index.html` - public landing page and app description
-- `privacy.html` - Privacy Policy URL
-- `terms.html` - Terms of Service URL
+- `privacy.html/` - Privacy Policy URL
+- `terms.html/` - Terms of Service URL
 
 ## GitHub Pages Setup
 
@@ -22,9 +22,9 @@ Static legal pages for TikTok Developer app registration.
 Use these TikTok Developer form URLs:
 
 - Terms of Service URL:
-  `https://YOUR_GITHUB_USERNAME.github.io/aditalksai-legal/terms.html`
+  `https://YOUR_GITHUB_USERNAME.github.io/aditalksai-legal/terms.html/`
 - Privacy Policy URL:
-  `https://YOUR_GITHUB_USERNAME.github.io/aditalksai-legal/privacy.html`
+  `https://YOUR_GITHUB_USERNAME.github.io/aditalksai-legal/privacy.html/`
 
 ## Before Submitting to TikTok
 
